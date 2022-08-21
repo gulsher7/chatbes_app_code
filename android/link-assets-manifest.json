@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CircularStd-Black.ttf",
+      "sha1": "b28281624afe633b6f5c368e93cdee2a2d6fdd74"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Bold.ttf",
+      "sha1": "879abb2579e83ab43c09aad8fa78f2d614ace077"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Book.ttf",
+      "sha1": "e41d5d04155f6233cdec9176a8a7eb3e0cd2b70a"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Medium.ttf",
+      "sha1": "262e6e5742420716834bb6584a03e8310690e041"
+    },
+    {
+      "path": "src/assets/fonts/Comfortaa_Bold.ttf",
+      "sha1": "c6c92b5f8fe72d673f0d3256fd16d55845a72f28"
+    },
+    {
+      "path": "src/assets/fonts/Comfortaa_Regular.ttf",
+      "sha1": "a72cc3dc6180abe6eccba76cc0c85e2ab284f5db"
+    },
+    {
+      "path": "src/assets/fonts/Comfortaa_Thin.ttf",
+      "sha1": "2b970700340c4f209c57466394f2c0c194530b7a"
+    }
+  ]
+}
